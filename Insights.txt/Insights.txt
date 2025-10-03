@@ -1,0 +1,6 @@
+INSIGHTS FROM THE SALES DASHBOARD
+
+1. The West region had the highest overall sales, while the South region consistently recorded the lowest sales.
+2. Sales peaked in December, showing a strong holiday season impact, while February was the weakest month.
+3. The Technology category contributed the largest share of total revenue and profit compared to Furniture and Office Supplies.
+4. Profit margins were highest in Technology, while Furniture showed lower profitability despite high sales volume.
